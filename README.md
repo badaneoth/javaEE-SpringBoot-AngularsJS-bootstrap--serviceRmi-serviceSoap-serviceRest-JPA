@@ -9,4 +9,4 @@ Version Smartphone:
 
 version PC
 
-![alt tag](https://raw.githubusercontent.com/badaneoth/javaEE-SpringBoot-AngularsJS-bootstrap-responsive---serviceRmi-serviceSoap-serviceRest-JPA-/master/g2.png)
+![alt tag](https://raw.githubusercontent.com/badaneoth/javaEE-SpringBoot-AngularsJS-bootstrap-responsive---serviceRmi-serviceSoap-serviceRest-JPA-/master/g2.png) 
